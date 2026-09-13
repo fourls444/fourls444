@@ -3,6 +3,8 @@
 ### Full-Stack Developer | Backend Developer | Mobile Developer
 ### Data Analyst | Java Developer
 
+🌐 **Portfolio:** [fourls444.github.io/thanon-portfolio](https://fourls444.github.io/thanon-portfolio/)
+
 ---
 
 ## 👨‍💻 Roles / ตำแหน่งที่สนใจ
