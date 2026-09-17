@@ -1,19 +1,20 @@
 # Hi, I'm Thanon Macharoen
 
-### Full-Stack Developer | Backend Developer | Mobile Developer
-### Data Analyst | Java Developer
+### Full-Stack Developer
+
+Building web applications and backend services with TypeScript, Next.js, Node.js, PostgreSQL, and Supabase.
+
+Also experienced with Backend Development, Mobile Development, Data Analysis, and Java projects.
 
 🌐 **Portfolio:** [fourls444.github.io/thanon-portfolio](https://fourls444.github.io/thanon-portfolio/)
 
 ---
 
-## 👨‍💻 Roles / ตำแหน่งที่สนใจ
+## 👨‍💻 Focus / สิ่งที่กำลังมองหา
 
-- Full-Stack Developer
-- Backend Developer
-- Mobile Developer
-- Data Analyst
-- Java Developer
+- **Primary:** Full-Stack Developer
+- **Secondary:** Backend Developer · Mobile Developer
+- **Additional project experience:** Data Analysis · Java
 
 ---
 
@@ -90,4 +91,10 @@
 - Email: thanon.macharoen@gmail.com
 - GitHub: https://github.com/fourls444
 - LinkedIn: https://www.linkedin.com/in/thanon-macharoen/
+
+## ⭐ Featured projects
+
+- [Crystal Dreams](https://github.com/fourls444/crystaldreams) — E-commerce application with product, order, payment, delivery, and admin workflows.
+- [TogetherSpace](https://github.com/fourls444/togetherspace) — Collaborative workspace with rooms, boards, calendar, albums, chat, and shared finance.
+- [Flutter Pokedex](https://github.com/fourls444/flutter_pokedex) — Flutter app using a custom REST API and database-backed CRUD workflows.
   
