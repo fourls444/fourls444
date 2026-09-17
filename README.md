@@ -1,10 +1,10 @@
 # Hi, I'm Thanon Macharoen
 
-### Full-Stack Developer
+Computer Science student with hands-on experience across full-stack web development, backend APIs, mobile development, and data-related projects.
 
-Building web applications and backend services with TypeScript, Next.js, Node.js, PostgreSQL, and Supabase.
+**Main stack:** TypeScript · Next.js · React · Node.js · PostgreSQL
 
-Also experienced with Backend Development, Mobile Development, Data Analysis, and Java projects.
+**Also worked with:** Flutter · Dart · Python · Pandas · Java
 
 🌐 **Portfolio:** [fourls444.github.io/thanon-portfolio](https://fourls444.github.io/thanon-portfolio/)
 
