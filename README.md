@@ -18,6 +18,14 @@ Computer Science student with hands-on experience across full-stack web developm
 
 ---
 
+## ⭐ Featured projects
+
+- [Crystal Dreams](https://github.com/fourls444/crystaldreams) — E-commerce application with product, order, payment, delivery, and admin workflows.
+- [TogetherSpace](https://github.com/fourls444/togetherspace) — Collaborative workspace with rooms, boards, calendar, albums, chat, and shared finance.
+- [Flutter Pokedex](https://github.com/fourls444/flutter_pokedex) — Flutter app using a custom REST API and database-backed CRUD workflows.
+
+---
+
 ## 🛠️ Tech Stack / เทคโนโลยีที่ใช้
 
 ### 🎨 Frontend Development / การพัฒนา Frontend
@@ -91,10 +99,3 @@ Computer Science student with hands-on experience across full-stack web developm
 - Email: thanon.macharoen@gmail.com
 - GitHub: https://github.com/fourls444
 - LinkedIn: https://www.linkedin.com/in/thanon-macharoen/
-
-## ⭐ Featured projects
-
-- [Crystal Dreams](https://github.com/fourls444/crystaldreams) — E-commerce application with product, order, payment, delivery, and admin workflows.
-- [TogetherSpace](https://github.com/fourls444/togetherspace) — Collaborative workspace with rooms, boards, calendar, albums, chat, and shared finance.
-- [Flutter Pokedex](https://github.com/fourls444/flutter_pokedex) — Flutter app using a custom REST API and database-backed CRUD workflows.
-  
